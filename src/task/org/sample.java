@@ -23,7 +23,7 @@ public class  sample {
 			}
 			
 		}
-		System.out.println("asc"+"change");
+		System.out.println("asc"+"change new");
 		for (int i = 0; i < a.length; i++) {
 			System.out.println(a[i]+"value");
 		}
