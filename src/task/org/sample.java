@@ -10,7 +10,7 @@ public class  sample {
 		
 		for (int i = 0; i < a.length; i++) { //10 //5
 			
-			for (int j=i+1; j < a.length; j++) {//5720//723//23//3
+			for (int j=i+1; j < a.length; j++) {//5720//723//23//3    hyheyeywyyywy
 				
 				if (a[i]>a[j]) {
 					
