@@ -12,7 +12,7 @@ public class  sample {
 			
 			for (int j=i+1; j < a.length; j++) {//5720//723//23//3
 				
-				if (a[i]>a[j]) {
+				if (a[i]>a[j]) {  jkjihhhh
 					
 				temp = a[i];
 				a[i]=a[j];
